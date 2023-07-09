@@ -38,6 +38,23 @@
     rosbag play your_localization.bag
   ```
 
+## Examples
+  1. Urban
+  <p align='center'>
+      <img src="https://github.com/YJZLuckyBoy/pic/blob/master/liorf_localization/Urban/urban.gif" alt="drawing" width="800" height = "400"/>
+  </p>
+
+## Scalable Examples
+  1. Building(Avia)
+  <p align='center'>
+      <img src="https://github.com/YJZLuckyBoy/pic/blob/master/liorf_localization/Avia/building.gif" alt="drawing" width="800" height = "400"/>
+  </p>
+
+  2. Underground Parking(Avia)
+  <p align='center'>
+      <img src="https://github.com/YJZLuckyBoy/pic/blob/master/liorf_localization/Avia/underground_parking.gif" alt="drawing" width="800" height = "400"/>
+  </p>
+
 ## Acknowledgments
   Thanks for [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM), [MulRan](https://sites.google.com/view/mulran-pr/) and [UrbanNavDataset](https://github.com/weisongwen/UrbanNavDataset).
 
